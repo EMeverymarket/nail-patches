@@ -6,8 +6,8 @@ import { Analytics } from "@vercel/analytics/react";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "HealthyDerm | Instant Under Eye Lift Serum",
-  description: "Discover our revolutionary Instant Under Eye Lift Serum designed to lift, tighten, and refresh your under eye area with immediate results.",
+  title: "VigorWell | Toenail Fungus Treatment Hacks",
+  description: "Discover customer-proven hacks for using VigorWell 25% Undecylenic Acid Antifungal Treatment to achieve faster, healthier nail recovery.",
   icons: {
     icon: "/favi.png",
   },
